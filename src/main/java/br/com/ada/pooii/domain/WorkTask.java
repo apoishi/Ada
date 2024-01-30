@@ -1,2 +1,4 @@
-package br.com.ada.pooii.domain;public class WorkTaskJava {
+package br.com.ada.pooii.domain;
+
+public class WorkTask extends BaseTask {
 }
