@@ -33,6 +33,7 @@ Classes de Entidade: BaseTask e suas subclasses para representar diferentes tipo
 Classe Repository: Utiliza uma lista para simular o armazenamento de dados.
 Classe Service: Implementa a lógica de negócios.
 Classe Controller: Processa a entrada do usuário e comanda as operações correspondentes.
+
 Considerações Adicionais
 O projeto deve seguir os princípios SOLID para um design limpo e extensível.
 A aplicação de herança e generics deve ser demonstrada nas estruturas de dados e nas operações de manipulação de tarefas.
