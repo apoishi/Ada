@@ -14,12 +14,15 @@ O projeto está dividido em camadas:
     - `PersonalTask.java`: Subclasse de `BaseTask` que representa uma tarefa pessoal.
     - `WorkTask.java`: Subclasse de `BaseTask` que representa uma tarefa de trabalho.
     - `StudyTask.java`: Subclasse de `BaseTask` que representa uma tarefa de estudo.
+      
 - **Camada de Repository (Repositório):**
   - Responsável pela "persistência" dos dados em listas.
     - `TaskRepository.java`: Classe que simula o armazenamento das tarefas em listas.
+      
 - **Camada de Service (Serviço):**
   - Contém a lógica de aplicação, como operações de manipulação de tarefas.
     - `TaskService.java`: Classe que implementa a lógica de negócio para manipulação das tarefas.
+      
 - **Camada de Controller (Controlador):**
   - Gerencia a interação do usuário com o sistema via console.
     - `TaskController.java`: Classe responsável por processar a entrada do usuário e comandar as operações correspondentes.
