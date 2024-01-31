@@ -1,4 +1,4 @@
-# AdaTask - Gerenciamento de Tarefas via Console 📋✨
+# AdaTask - Gerenciamento de Tarefas 📋✨
 
 ## Descrição
 
